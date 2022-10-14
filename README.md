@@ -11,8 +11,7 @@ David Tusia
 
 ### Setup
 
-- <code>.env</code> - Required
-  - <code>PORT</code> - Port Number
+- <code>npm i</code> - Required
 
 ### Running the app
 
