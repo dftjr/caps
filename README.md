@@ -22,7 +22,8 @@ David Tusia
 - Unit Tests: <code>npm test</code>
 - Terminal Tests: <code>node terminalTest.js </code>
   - Return:
-         <img src="images/image here" alt="Terminal Testing Image" width="400"/> 
+         
+       <img src="images/lab11-terminalTest-output.png" alt="Terminal Testing Image" width="400"/> 
 
 ### UML
 
