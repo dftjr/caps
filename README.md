@@ -3,7 +3,7 @@
 ## Deployment Test
 
 - [Test Report](https://github.com/dftjr/caps/actions)
-- [Heroku](https://dftjr-bearer-auth.herokuapp.com/)
+- [Heroku](https://dftjr-caps.herokuapp.com/)
 
 ### Author: 
 
