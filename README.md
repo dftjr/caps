@@ -5,7 +5,7 @@
 - [Test Report](https://github.com/dftjr/caps/actions)
 - [Heroku](https://dftjr-caps.herokuapp.com/)
 
-### Author: 
+### Author
 
 David Tusia
 
@@ -22,9 +22,9 @@ David Tusia
 - Unit Tests: <code>npm test</code>
 - Terminal Tests: <code>node terminalTest.js </code>
   - Return:
-         
-       <img src="images/lab11-terminalTest-output.png" alt="Terminal Testing Image" width="400"/> 
+
+       <img src="./img/lab11-terminalTest-output.png" alt="Terminal Testing Image" width="400"/>
 
 ### UML
 
-<code>place UML here</code>
+<img src="./img/lab-11-uml.jpg" alt="Terminal Testing Image" width="400"/>
